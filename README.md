@@ -1,2 +1,3 @@
-# DBMS-College-management-system
+# DBMS
+#College-management-system
 # sql
